@@ -1,3 +1,10 @@
+// This program can be used as a reference for problems that could benefit
+// from using two pointers to move inwards to solve it such as the famous
+// palindrome problem
+
+// Time Complexity: O(N)
+// Space Complexity: O(1)
+
 #include <iostream>
 #include <string>
 

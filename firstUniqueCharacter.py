@@ -8,6 +8,9 @@
 # (because a is the first unique character. 'c' is also unique but it is
 # NOT first)
 
+# Time Complexity: 2N == O(N)
+# Space Complexity: O(1)
+
 def firstUniqueCharacter(s):
     # Step 1: Create a Hash Map
     # This hash map will store character frequency e.g., {'s': 3, 't':3, ...}
