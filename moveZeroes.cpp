@@ -2,6 +2,9 @@
 // while maintaining the relative order of the non-zero elements
 // and it must be done IN-PLACE (nom aking a copy of the array)
 
+// Time Complexity: O(N)
+// Space Complexity: O(1)
+
 // Input: [0, 1, 0, 3, 12]
 // Output: [1, 3, 12, 0, 0]
 
