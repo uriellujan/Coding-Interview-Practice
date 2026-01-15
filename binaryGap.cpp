@@ -3,6 +3,9 @@
 // without overwhelming you. The strategy to solve this problem is using
 // a state machine system.
 
+// Time Complexity: O(logN)
+// Space Complexity: O(1)
+
 #include <iostream>
 #include <algorithm>
 
