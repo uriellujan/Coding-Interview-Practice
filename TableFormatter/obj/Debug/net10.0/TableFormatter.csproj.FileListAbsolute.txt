@@ -1,0 +1,15 @@
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/bin/Debug/net10.0/TableFormatter
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/bin/Debug/net10.0/TableFormatter.deps.json
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/bin/Debug/net10.0/TableFormatter.runtimeconfig.json
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/bin/Debug/net10.0/TableFormatter.dll
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/bin/Debug/net10.0/TableFormatter.pdb
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/obj/Debug/net10.0/TableFormatter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/obj/Debug/net10.0/TableFormatter.AssemblyInfoInputs.cache
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/obj/Debug/net10.0/TableFormatter.AssemblyInfo.cs
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/obj/Debug/net10.0/TableFormatter.csproj.CoreCompileInputs.cache
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/obj/Debug/net10.0/TableFormatter.sourcelink.json
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/obj/Debug/net10.0/TableFormatter.dll
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/obj/Debug/net10.0/refint/TableFormatter.dll
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/obj/Debug/net10.0/TableFormatter.pdb
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/obj/Debug/net10.0/TableFormatter.genruntimeconfig.cache
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/TableFormatter/obj/Debug/net10.0/ref/TableFormatter.dll
