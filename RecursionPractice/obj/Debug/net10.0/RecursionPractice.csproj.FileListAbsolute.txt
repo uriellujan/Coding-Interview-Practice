@@ -1,0 +1,15 @@
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/bin/Debug/net10.0/RecursionPractice
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/bin/Debug/net10.0/RecursionPractice.deps.json
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/bin/Debug/net10.0/RecursionPractice.runtimeconfig.json
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/bin/Debug/net10.0/RecursionPractice.dll
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/bin/Debug/net10.0/RecursionPractice.pdb
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/obj/Debug/net10.0/RecursionPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/obj/Debug/net10.0/RecursionPractice.AssemblyInfoInputs.cache
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/obj/Debug/net10.0/RecursionPractice.AssemblyInfo.cs
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/obj/Debug/net10.0/RecursionPractice.csproj.CoreCompileInputs.cache
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/obj/Debug/net10.0/RecursionPractice.sourcelink.json
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/obj/Debug/net10.0/RecursionPractice.dll
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/obj/Debug/net10.0/refint/RecursionPractice.dll
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/obj/Debug/net10.0/RecursionPractice.pdb
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/obj/Debug/net10.0/RecursionPractice.genruntimeconfig.cache
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/RecursionPractice/obj/Debug/net10.0/ref/RecursionPractice.dll
