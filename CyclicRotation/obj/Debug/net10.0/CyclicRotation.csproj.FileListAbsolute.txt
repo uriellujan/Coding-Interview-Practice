@@ -1,0 +1,15 @@
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/obj/Debug/net10.0/CyclicRotation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/obj/Debug/net10.0/CyclicRotation.AssemblyInfoInputs.cache
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/obj/Debug/net10.0/CyclicRotation.AssemblyInfo.cs
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/obj/Debug/net10.0/CyclicRotation.csproj.CoreCompileInputs.cache
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/obj/Debug/net10.0/CyclicRotation.sourcelink.json
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/bin/Debug/net10.0/CyclicRotation
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/bin/Debug/net10.0/CyclicRotation.deps.json
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/bin/Debug/net10.0/CyclicRotation.runtimeconfig.json
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/bin/Debug/net10.0/CyclicRotation.dll
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/bin/Debug/net10.0/CyclicRotation.pdb
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/obj/Debug/net10.0/CyclicRotation.dll
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/obj/Debug/net10.0/refint/CyclicRotation.dll
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/obj/Debug/net10.0/CyclicRotation.pdb
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/obj/Debug/net10.0/CyclicRotation.genruntimeconfig.cache
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/CyclicRotation/obj/Debug/net10.0/ref/CyclicRotation.dll
