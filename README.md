@@ -14,6 +14,7 @@ A collection of algorithms and data structures to prepare for technical intervie
 | **Move Zeroes** | Two Pointers (In-Place) | $O(N)$ | $O(1)$ | ✅ Complete |
 | **Table Formatter** | String Manipulation / Math | $O(N)$ | $O(N)$ | ✅ Complete (C#) |
 | **Reverse String (Recursive)** | Recursion | $O(N^2)$ | $O(N)$ | ✅ Complete (C#) |
+| **Cyclic Rotation** | Arrays / Modulo Math | $O(N)$ | $O(N)$ | ✅ Complete (C#) |
 
 ## ⚡ Quick Run Guide
 Reference commands to compile and run solutions in different languages.
