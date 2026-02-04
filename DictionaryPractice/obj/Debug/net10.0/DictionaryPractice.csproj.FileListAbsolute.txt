@@ -1,0 +1,15 @@
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/bin/Debug/net10.0/DictionaryPractice
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/bin/Debug/net10.0/DictionaryPractice.deps.json
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/bin/Debug/net10.0/DictionaryPractice.runtimeconfig.json
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/bin/Debug/net10.0/DictionaryPractice.dll
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/bin/Debug/net10.0/DictionaryPractice.pdb
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/obj/Debug/net10.0/DictionaryPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/obj/Debug/net10.0/DictionaryPractice.AssemblyInfoInputs.cache
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/obj/Debug/net10.0/DictionaryPractice.AssemblyInfo.cs
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/obj/Debug/net10.0/DictionaryPractice.csproj.CoreCompileInputs.cache
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/obj/Debug/net10.0/DictionaryPractice.sourcelink.json
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/obj/Debug/net10.0/DictionaryPractice.dll
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/obj/Debug/net10.0/refint/DictionaryPractice.dll
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/obj/Debug/net10.0/DictionaryPractice.pdb
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/obj/Debug/net10.0/DictionaryPractice.genruntimeconfig.cache
+/Users/uriellujan/Desktop/Personal/Personal Programming/Coding-Interview-Practice/DictionaryPractice/obj/Debug/net10.0/ref/DictionaryPractice.dll
