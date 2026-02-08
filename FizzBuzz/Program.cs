@@ -21,7 +21,7 @@
  * * Complexity Analysis:
  * - Time Complexity: O(N) -> We iterate through the numbers 1 to N exactly once.
  * - Space Complexity: O(1) -> We only store a single loop counter variable; no extra data structures used.
- */
+ */ 
 
 using System;
 
