@@ -8,7 +8,7 @@
  * - For multiples of both 3 and 5, print "FizzBuzz".
  * - Otherwise, print the number itself.
  * * Example Input: n = 15
- * Example Output: 
+ * Example Output:
  * 1
  * 2
  * Fizz
